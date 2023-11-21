@@ -1,0 +1,310 @@
+[
+    {
+        "mainClass": "000",
+        "mainClassTitle": "General Works",
+        "divisions": [
+            {
+                "divisionNumber": "010",
+                "divisionTitle": "Bibliographies",
+                "sections": [
+                    {"sectionNumber": "012", "sectionTitle": "Bibliographies of individuals"},
+                    {"sectionNumber": "014", "sectionTitle": "Bibliographies of anonymous and pseudonymous works"}
+                ]
+            },
+            {
+                "divisionNumber": "020",
+                "divisionTitle": "Library & Information Sciences",
+                "sections": [
+                    {"sectionNumber": "021", "sectionTitle": "Relationships of library and archives"},
+                    {"sectionNumber": "028", "sectionTitle": "Reading and use of other information media"}
+                ]
+            },
+            {
+                "divisionNumber": "060",
+                "divisionTitle": "Associations, organizations & museums",
+                "sections": [
+                    {"sectionNumber": "061", "sectionTitle": "General organizations in North America"},
+                    {"sectionNumber": "064", "sectionTitle": "General organizations in France and Monaco"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "100",
+        "mainClassTitle": "Philosophy & Psychology",
+        "divisions": [
+            {
+                "divisionNumber": "140",
+                "divisionTitle": "Philosophical schools of thought",
+                "sections": [
+                    {"sectionNumber": "142", "sectionTitle": "Critical Philosophy"},
+                    {"sectionNumber": "145", "sectionTitle": "Sensationalism"}
+                ]
+            },
+            {
+                "divisionNumber": "160",
+                "divisionTitle": "Philosophical logic",
+                "sections": [
+                    {"sectionNumber": "162", "sectionTitle": "Deduction"},
+                    {"sectionNumber": "167", "sectionTitle": "Hypothesis"}
+                ]
+            },
+            {
+                "divisionNumber": "180",
+                "divisionTitle": "Ancient, medieval & eastern philosophy",
+                "sections": [
+                    {"sectionNumber": "182", "sectionTitle": "Pre-Socratic Greek Philosophies"},
+                    {"sectionNumber": "184", "sectionTitle": "Platonic Philosophy"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "200",
+        "mainClassTitle": "Religion",
+        "divisions": [
+            {
+                "divisionNumber": "220",
+                "divisionTitle": "The Bible",
+                "sections": [
+                    {"sectionNumber": "223", "sectionTitle": "Poetic books of Old Testament"},
+                    {"sectionNumber": "225", "sectionTitle": "New Testament"}
+                ]
+            },
+            {
+                "divisionNumber": "240",
+                "divisionTitle": "Christian practice & observance",
+                "sections": [
+                    {"sectionNumber": "241", "sectionTitle": "Christian ethics"},
+                    {"sectionNumber": "246", "sectionTitle": "Use of art in Christianity"}
+                ]
+            },
+            {
+                "divisionNumber": "290",
+                "divisionTitle": "Other religions",
+                "sections": [
+                    {"sectionNumber": "293", "sectionTitle": "Germanic Religion"},
+                    {"sectionNumber": "294", "sectionTitle": "Religions of Indic origin"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "300",
+        "mainClassTitle": "Social Sciences",
+        "divisions": [
+            {
+                "divisionNumber": "310",
+                "divisionTitle": "Statistics",
+                "sections": [
+                    {"sectionNumber": "314", "sectionTitle": "General statistics of Europe"},
+                    {"sectionNumber": "316", "sectionTitle": "General statistics of Africa"}
+                ]
+            },
+            {
+                "divisionNumber": "330",
+                "divisionTitle": "Economics",
+                "sections": [
+                    {"sectionNumber": "332", "sectionTitle": "Financial Economics"},
+                    {"sectionNumber": "337", "sectionTitle": "International Economics"}
+                ]
+            },
+            {
+                "divisionNumber": "350",
+                "divisionTitle": "Public administration & military science",
+                "sections": [
+                    {"sectionNumber": "355", "sectionTitle": "Military Science"},
+                    {"sectionNumber": "359", "sectionTitle": "Naval Forces and warfare"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "400",
+        "mainClassTitle": "Language",
+        "divisions": [
+            {
+                "divisionNumber": "420",
+                "divisionTitle": "English & Old English languages",
+                "sections": [
+                    {"sectionNumber": "423", "sectionTitle": "Dictionaries of Standard English"},
+                    {"sectionNumber": "428", "sectionTitle": "Standard English Usage"}
+                ]
+            },
+            {
+                "divisionNumber": "440",
+                "divisionTitle": "French & related languages",
+                "sections": [
+                    {"sectionNumber": "442", "sectionTitle": "Etymology of standard French"},
+                    {"sectionNumber": "447", "sectionTitle": "French language variations"}
+                ]
+            },
+            {
+                "divisionNumber": "480",
+                "divisionTitle": "Classical & modern Greek languages",
+                "sections": [
+                    {"sectionNumber": "483", "sectionTitle": "Dictionaries of classical Greek"},
+                    {"sectionNumber": "485", "sectionTitle": "Grammar of classical Greek"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "500",
+        "mainClassTitle": "Science",
+        "divisions": [
+            {
+                "divisionNumber": "520",
+                "divisionTitle": "Astronomy",
+                "sections": [
+                    {"sectionNumber": "521", "sectionTitle": "Celestial Mechanics"},
+                    {"sectionNumber": "527", "sectionTitle": "Celestial navigation"}
+                ]
+            },
+            {
+                "divisionNumber": "530",
+                "divisionTitle": "Physics",
+                "sections": [
+                    {"sectionNumber": "532", "sectionTitle": "Fluid mechanics"},
+                    {"sectionNumber": "538", "sectionTitle": "Magnetism"}
+                ]
+            },
+            {
+                "divisionNumber": "550",
+                "divisionTitle": "Earth Science and Geology",
+                "sections": [
+                    {"sectionNumber": "552", "sectionTitle": "Petrology"},
+                    {"sectionNumber": "553", "sectionTitle": "Economic geology"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "600",
+        "mainClassTitle": "Technology",
+        "divisions": [
+            {
+                "divisionNumber": "640",
+                "divisionTitle": "Home & Family management",
+                "sections": [
+                    {"sectionNumber": "644", "sectionTitle": "Household utilities"},
+                    {"sectionNumber": "648", "sectionTitle": "Housekeeping"}
+                ]
+            },
+            {
+                "divisionNumber": "680",
+                "divisionTitle": "Manufacture for specific uses",
+                "sections": [
+                    {"sectionNumber": "684", "sectionTitle": "Furnishings and home workshops"},
+                    {"sectionNumber": "687", "sectionTitle": "Clothing and accessories"}
+                ]
+            },
+            {
+                "divisionNumber": "690",
+                "divisionTitle": "Construction of buildings",
+                "sections": [
+                    {"sectionNumber": "694", "sectionTitle": "Wood construction"},
+                    {"sectionNumber": "695", "sectionTitle": "Roof covering"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "700",
+        "mainClassTitle": "Arts & Recreation",
+        "divisions": [
+            {
+                "divisionNumber": "710",
+                "divisionTitle": "Area planning & landscape architecture",
+                "sections": [
+                    {"sectionNumber": "713", "sectionTitle": "Landscape architecture of trafficways"},
+                    {"sectionNumber": "719", "sectionTitle": "Natural landscapes"}
+                ]
+            },
+            {
+                "divisionNumber": "720",
+                "divisionTitle": "Architecture",
+                "sections": [
+                    {"sectionNumber": "725", "sectionTitle": "Public structures"},
+                    {"sectionNumber": "728", "sectionTitle": "Residential and related buildings"}
+                ]
+            },
+            {
+                "divisionNumber": "730",
+                "divisionTitle": "Sculpture, ceramics & metalwork",
+                "sections": [
+                    {"sectionNumber": "736", "sectionTitle": "Carving and carvings"},
+                    {"sectionNumber": "738", "sectionTitle": "Ceramic arts"}
+                ]
+            }
+        ]
+    },
+{
+        "mainClass": "800",
+        "mainClassTitle": "Literature",
+        "divisions": [
+            {
+                "divisionNumber": "830",
+                "divisionTitle": "German & related literatures",
+                "sections": [
+                    {"sectionNumber": "831", "sectionTitle": "German poetry"},
+                    {"sectionNumber": "832", "sectionTitle": "German drama"}
+                ]
+            },
+            {
+                "divisionNumber": "850",
+                "divisionTitle": "Italian, Romanian & related literatures",
+                "sections": [
+                    {"sectionNumber": "853", "sectionTitle": "Italian Fiction"},
+                    {"sectionNumber": "856", "sectionTitle": "Italian letters"}
+                ]
+            },
+            {
+                "divisionNumber": "880",
+                "divisionTitle": "Classical & modern Greek literatures",
+                "sections": [
+                    {"sectionNumber": "881", "sectionTitle": "Classic Greek poetry"},
+                    {"sectionNumber": "889", "sectionTitle": "Modern Greek literature"}
+                ]
+            }
+        ]
+    },
+    {
+        "mainClass": "900",
+        "mainClassTitle": "History & Geography",
+        "divisions": [
+            {
+                "divisionNumber": "910",
+                "divisionTitle": "Geography and Travel",
+                "sections": [
+                    {"sectionNumber": "911", "sectionTitle": "Historical geography"},
+                    {"sectionNumber": "912", "sectionTitle": "Maps and plans of surface of earth"}
+                ]
+            },
+            {
+                "divisionNumber": "940",
+                "divisionTitle": "History of Europe",
+                "sections": [
+                    {"sectionNumber": "944", "sectionTitle": "France and Monaco"},
+                    {"sectionNumber": "948", "sectionTitle": "Scandinavia and Finland"}
+                ]
+            },
+            {
+                "divisionNumber": "950",
+                "divisionTitle": "History of Asia",
+                "sections": [
+                    {"sectionNumber": "952", "sectionTitle": "Japan"},
+                    {"sectionNumber": "955", "sectionTitle": "Iran"}
+                ]
+            },
+            {
+                "divisionNumber": "960",
+                "divisionTitle": "History of Africa",
+                "sections": [
+                    {"sectionNumber": "965", "sectionTitle": "Algeria"},
+                    {"sectionNumber": "968", "sectionTitle": "South Africa and southern Africa"}
+                ]
+            }
+        ]
+    }
+]
